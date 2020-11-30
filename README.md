@@ -5,4 +5,4 @@
 
 We have used below algoritms in this project:
 - Naive Bayes
--Linear SVC
+- Linear SVC
